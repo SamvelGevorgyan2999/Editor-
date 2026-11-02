@@ -115,8 +115,6 @@ The resulting `AdvancedTextEditor` executable is in `build/` (or
 | `.html`        | Qt-generated HTML| Yes                                |
 | `.pdf` (export)| PDF              | Yes (read-only output)             |
 
-To keep tables and images when saving, use **Save As → Rich text / HTML**, or
-**Export to PDF** for a fixed-layout document.
 
 ---
 
