@@ -112,7 +112,7 @@ The resulting `AdvancedTextEditor` executable is in `build/` (or
 | Extension      | Stored as        | Preserves formatting/tables/images |
 |----------------|------------------|------------------------------------|
 | `.txt`, code   | Plain UTF-8 text | No (plain text)                    |
-| `.html`, `.htm`| Qt-generated HTML| Yes                                |
+| `.html`        | Qt-generated HTML| Yes                                |
 | `.pdf` (export)| PDF              | Yes (read-only output)             |
 
 To keep tables and images when saving, use **Save As → Rich text / HTML**, or
