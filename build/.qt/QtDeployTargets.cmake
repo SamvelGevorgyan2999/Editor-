@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_test_documentstats_FILE /home/samvel/Dev/Editor/build/tests/test_documentstats)
+set(__QT_DEPLOY_TARGET_test_documentstats_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_test_filemanager_FILE /home/samvel/Dev/Editor/build/tests/test_filemanager)
+set(__QT_DEPLOY_TARGET_test_filemanager_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_ate_core_FILE /home/samvel/Dev/Editor/build/libate_core.a)
+set(__QT_DEPLOY_TARGET_ate_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_AdvancedTextEditor_FILE /home/samvel/Dev/Editor/build/AdvancedTextEditor)
+set(__QT_DEPLOY_TARGET_AdvancedTextEditor_TYPE EXECUTABLE)

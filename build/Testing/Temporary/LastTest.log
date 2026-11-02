@@ -1,0 +1,53 @@
+Start testing: Oct 30 22:42 +04
+----------------------------------------------------------
+1/2 Testing: test_documentstats
+1/2 Test: test_documentstats
+Command: "/home/samvel/Dev/Editor/build/tests/test_documentstats"
+Directory: /home/samvel/Dev/Editor/build/tests
+"test_documentstats" start time: Oct 30 22:42 +04
+Output:
+----------------------------------------------------------
+********* Start testing of TestDocumentStats *********
+Config: Using QtTest library 6.10.2, Qt 6.10.2 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 15.2.0), ubuntu 26.04
+PASS   : TestDocumentStats::initTestCase()
+PASS   : TestDocumentStats::emptyText()
+PASS   : TestDocumentStats::singleWord()
+PASS   : TestDocumentStats::multipleWordsAndLines()
+PASS   : TestDocumentStats::whitespaceHandling()
+PASS   : TestDocumentStats::unicodeText()
+PASS   : TestDocumentStats::cleanupTestCase()
+Totals: 7 passed, 0 failed, 0 skipped, 0 blacklisted, 0ms
+********* Finished testing of TestDocumentStats *********
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_documentstats" end time: Oct 30 22:42 +04
+"test_documentstats" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_filemanager
+2/2 Test: test_filemanager
+Command: "/home/samvel/Dev/Editor/build/tests/test_filemanager"
+Directory: /home/samvel/Dev/Editor/build/tests
+"test_filemanager" start time: Oct 30 22:42 +04
+Output:
+----------------------------------------------------------
+********* Start testing of TestFileManager *********
+Config: Using QtTest library 6.10.2, Qt 6.10.2 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 15.2.0), ubuntu 26.04
+PASS   : TestFileManager::initTestCase()
+PASS   : TestFileManager::formatDetection()
+PASS   : TestFileManager::roundTripUtf8()
+PASS   : TestFileManager::readMissingFile()
+PASS   : TestFileManager::cleanupTestCase()
+Totals: 5 passed, 0 failed, 0 skipped, 0 blacklisted, 1ms
+********* Finished testing of TestFileManager *********
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_filemanager" end time: Oct 30 22:42 +04
+"test_filemanager" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 30 22:42 +04

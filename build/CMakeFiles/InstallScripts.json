@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/samvel/Dev/Editor/build/cmake_install.cmake",
+		"/home/samvel/Dev/Editor/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
